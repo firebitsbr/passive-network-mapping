@@ -1,2 +1,2 @@
 # passive-network-mapping
-Passively gathers IP and MAC addresses of devices on the network
+Python module to passively gathers IP and MAC addresses of devices on the network
